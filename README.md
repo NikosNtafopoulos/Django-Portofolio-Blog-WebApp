@@ -8,6 +8,7 @@ Current bugs:
   ![image](1.png)
   ![image](2.png)
 - Draft page's contents are not being displayed
+* Publish date bug
 
 Style:
 
