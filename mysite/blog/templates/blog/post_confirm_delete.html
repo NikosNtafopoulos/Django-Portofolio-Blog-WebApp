@@ -1,0 +1,9 @@
+{% extends 'blog/base.html' %}
+{% block content %}
+ <form class="form-group"  method="POST">
+   <p>Are you sure you want to delete {{ object }}?</p>
+   <input type="submit" value="Delete" class="btn btn-danger">
+
+ </form>
+
+{% endblock %}
