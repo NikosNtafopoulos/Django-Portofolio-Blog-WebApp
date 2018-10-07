@@ -8,9 +8,11 @@ Current bugs:
   ![image](1.png)
   ![image](2.png)
 - Draft page's contents are not being displayed
-* Publish date bug
 
-Style:
+`Style:`
 
-- Basic bootstrap and a little css
-- I'm planing when i'll fix the bugs to update the entire front-end style and add more
+- Basic bootstrap
+
+* Almost none css (besides body)
+
+I'm planing when i'll fix the bugs to update the entire front-end style and add more
